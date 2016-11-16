@@ -1,11 +1,13 @@
-# hello-world
-This is a simple repository to help me get started on GitHub.
+# hello-world #
 
-I am wearing a blue shirt.
+The hello-world project is where I'll keep some notes about the other projects that I am working on, with links to those projects. At least I'll do this until I figure out a better way to do it.
 
-Baby blue in color.
+# Python Projects #
 
-With words on it,
-in black and white with logos.
+## Dated Distributions ##
+This will be a project that stores content until a specified date, a different date for each person, and then posts or emails this content to the members of the list. This is to solve the problem of having to post specifically on the day that has been assigned to the poster, and instead allow them to compose their post at any time and then the post will happen on the date assigned. 
 
-And the word CHAMPIONS on it.
+## C and D K ## 
+This is a text-based game that is being developed for practice...python practice. 
+
+# Other Notes #
