@@ -7,7 +7,7 @@ The hello-world project is where I'll keep some notes about the other projects t
 ## Dated Distributions ##
 This will be a project that stores content until a specified date, a different date for each person, and then posts or emails this content to the members of the list. This is to solve the problem of having to post specifically on the day that has been assigned to the poster, and instead allow them to compose their post at any time and then the post will happen on the date assigned. 
 
-## C and D K ## 
+## C and D K ##
 This is a text-based game that is being developed for practice...python practice. 
 
 # Other Notes #
